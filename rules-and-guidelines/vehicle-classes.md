@@ -17,6 +17,6 @@ layout:
     visible: true
 ---
 
-# 🎥 Vehicle Classes
+# 🎥 Vehicles Classes
 
 (9.1) Make sure to mask your location when streaming and going to a private or secret location. Meta guard when necessary.
